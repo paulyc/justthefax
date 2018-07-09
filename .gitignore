@@ -1,3 +1,4 @@
 .idea/workspace.xml
 node_modules/
+conf/secrets.js
 package-lock.json
