@@ -6,4 +6,10 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+router.get('/sendDefaultFax', function(req, res, next) {
+  res.render('index', { title: 'Express' });
+});
+
+//router.get('/receiveFax
+
 module.exports = router;
